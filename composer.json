@@ -1,0 +1,19 @@
+{
+    "name": "optitudes/easy-statistics",
+    "description": "easy-statistics is a package that allows you to use statistics and probability and generate predictions and conclusions",
+    "type": "library",
+    "license": "GPLv3",
+    "autoload": {
+        "psr-4": {
+            "Optitudes\\EasyStatistics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "optitudes",
+            "email": "sebasacuasssssrio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
